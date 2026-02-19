@@ -1,0 +1,1 @@
+# quick-clear-extension-edge
